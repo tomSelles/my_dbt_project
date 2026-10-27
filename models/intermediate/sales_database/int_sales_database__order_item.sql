@@ -1,5 +1,5 @@
 SELECT oi.order_id,
-    order_item_ids, 
+    order_item_id, 
     total_order_item_amount,
     item_quantity,
     product_id,
